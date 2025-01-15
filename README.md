@@ -1,8 +1,7 @@
 This site contains materials for the following courses and lectures:
-
-
 <br/>
 <br/>
+
 **- AI for the Environment: Adaptation & infrastructure.** Universiyt of Oxford. 2024.
 <br/>
 
